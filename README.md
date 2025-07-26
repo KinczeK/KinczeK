@@ -1,1 +1,3 @@
-### Hey, Great to see you.. 👋
+<div align="center">
+  ![snake gif](https://github.com/KinczeK/KinczeK/blob/output/github-snake-dark.svg)
+</div>
